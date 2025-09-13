@@ -1,0 +1,8 @@
+
+{
+  "name": "Smart Vision – Live Object & Gender Detector",
+  "description": "A real-time object and gender detection application that uses a live webcam feed and the Gemini API to identify objects and people in the frame.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
